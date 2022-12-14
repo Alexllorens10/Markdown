@@ -94,9 +94,9 @@ Sin texto enlazado la URL entre ángulos `< URL >`  Enlace de ejemplo como refer
 
 Insertar una imagen con Markdown se realiza de una manera idéntica a insertar links. En este caso, debes añadir un símbolo de `!` exclamación al principio y el enlace que es la ubicación de la imagen.
 
-![Primera moto](https://media.totmoto.com/product/yamaha-x-max-ie-125-abs-800x800.jpeg "Segunda moto")
+![Primera moto](https://media.totmoto.com/product/yamaha-x-max-ie-125-abs-800x800.jpeg "Primera moto")
 
-![Texto alternativo](https://www.motofichas.com/images/cache/01-yamaha-xmax-125-250-momo-estudio-739-a.jpg "Título alternativo")
+![Texto alternativo](https://www.motofichas.com/images/cache/01-yamaha-xmax-125-250-momo-estudio-739-a.jpg "Segunda moto")
 
 # Tablas
 
